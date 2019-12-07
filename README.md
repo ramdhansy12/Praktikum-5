@@ -17,4 +17,6 @@ mahasiswa, dengan ketentuan
 #### HASIL PROGRAM~~~~~
 ![gambar](https://user-images.githubusercontent.com/56957725/70306490-8c0baf80-1839-11ea-85a1-71ba0363ff12.png)
 
-#### PENJELASAN
+#### FLOWCHART
+![gambar](https://user-images.githubusercontent.com/56957725/70366468-1a2f7680-18ca-11ea-9bb9-c8b13fef0a04.png)
+
