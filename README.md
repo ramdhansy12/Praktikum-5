@@ -13,5 +13,6 @@ mahasiswa, dengan ketentuan
 #### FLOWCHART~~~~~~~~
 ![gambar](https://user-images.githubusercontent.com/56957725/70366468-1a2f7680-18ca-11ea-9bb9-c8b13fef0a04.png)
 
-#### Penjelasan program~~~~~~
-![gambar](https://user-images.githubusercontent.com/56957725/70305916-21a63f80-1838-11ea-937a-41e13512f019.png)
+#### PROGRAM~~~~~~
+![gambar](https://user-images.githubusercontent.com/56957725/70374720-7a550580-1928-11ea-9389-5f87f9aeb6c7.png)
+
