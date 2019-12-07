@@ -28,3 +28,5 @@ Mulai
 8. lalu jika ingin keluar dari program  gunakan fungsi 'if' kemudian gunakan fungsi break untuk keluar dari data nilai/menghentikan program
 9.Seleseai
 
+#### Hasil programnya
+![gambar](https://user-images.githubusercontent.com/56957725/70375965-b3947200-1936-11ea-995f-6676ab811aff.png)
